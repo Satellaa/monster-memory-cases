@@ -35,4 +35,4 @@ npx bitron
 ## Tools
 
 - [Bitron](https://github.com/satellaa/bitron) - Our validation tool for this repository
-- [MMT (Monster Memory Tracker)](https://github.com/satellaa/mmt) - Web application using this data
+- [MMT (Monster Memory Tracker)](https://github.com/satellaa/monster-memory-tracker) - Web application using this data
