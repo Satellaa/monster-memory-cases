@@ -1,0 +1,19 @@
+temporaryBanished: Forgotten
+flipFaceDown: Remembered
+temporaryBanishedFAQs:
+  - question: I have gained control of a monster by the effect of **Change of Heart** (i.e., and effect that lets me temporarily gain control of the monster). That monster is then banished, and returned to the field, by the effect of **Interdimensional Matter Forwarder**. What happens to the monster?
+    answer: |
+      **Control of the monster immediately returns to your opponent.** For effects such as that of **Change of Heart**, which specify a time limit for which you gain control of the monster, the effect will end if the monster is temporarily banished. Therefore, when the monster returns to the Monster Zone, **control immediately returns to the opponent.**
+    sources:
+      - text: Official Database FAQ/17476
+        url: https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17476&request_locale=ja
+      - text: ygoresources FAQ/17476
+        url: https://db.ygoresources.com/qa#17476
+flipFaceDownFAQs:
+  - question: I have resolved the effect of **Jinzo - Layered**, gaining control of a monster. After I have done so, that monster is changed to face-down Defense Position. What happens to **Jinzo - Layered**'s effect?
+    answer: In this case,『take control of it until the End Phase』**remains applied to the monster**, but『it cannot activate its effects or declare an attack』does not. (**You retain control of the monster until the End Phase.** If it is flipped face-up again, you can activate its effects and declare attacks.)
+    sources:
+      - text: Official Database FAQ/23044
+        url: https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23044&request_locale=ja
+      - text: ygoresources FAQ/23044
+        url: https://db.ygoresources.com/qa#23044

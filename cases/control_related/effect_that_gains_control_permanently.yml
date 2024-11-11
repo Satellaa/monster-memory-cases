@@ -1,0 +1,20 @@
+temporaryBanished: Remembered
+flipFaceDown: Remembered
+temporaryBanishedFAQs:
+  - question: |
+      I have gained control of a monster by the effect of **Number 11: Big Eye**. (i.e., an effect that lets me permanently gain control of the monster). That monster is then banished, and returned to the field, by the effect of **Interdimensional Matter Forwarder**. What happens to the monster?
+    answer: |
+      **You retain control of the monster.** For effects such as that of **Number 11: Big Eye**, which do not have a time limit for which you gain control of the monster, **control will not return to your opponent even if the card is banished temporarily.**
+    sources:
+      - text: Official Database FAQ/17476
+        url: https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17476&request_locale=ja
+      - text: ygoresources FAQ/17476
+        url: https://db.ygoresources.com/qa#17476
+flipFaceDownFAQs:
+  - question: I activated **Magic Gate of Miracles** and took control of my opponent's **Stardust Dragon**. Afterward, if **Book of Moon** is activated and that **Stardust Dragon** is changed to face-down Defense Position, which effects of **Magic Gate of Miracles** will be applied?
+    answer: Even if a monster you took control of with the effect of **Magic Gate of Miracles** is changed to face-down Defense Position, as in this scenario, **control of that monster does not return to your opponent**, however the effect that prevents that monster from being destroyed by battle no longer applies.
+    sources:
+      - text: Official Database FAQ/22445
+        url: https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22445&request_locale=ja
+      - text: ygoresources FAQ/22445
+        url: https://db.ygoresources.com/qa#22445

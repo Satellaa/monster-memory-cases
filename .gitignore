@@ -1,0 +1,6 @@
+# so Bitron can be cloned and ran locally for quick validation
+package.json
+yarn-lock.json
+package-lock.json
+node_modules/
+results/
