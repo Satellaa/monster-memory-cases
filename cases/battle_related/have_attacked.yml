@@ -1,2 +1,16 @@
 temporaryBanished: Forgotten
 flipFaceDown: Remembered
+flipFaceDownFAQs:
+  - question: |
+      If a monster battles while **Ancient Forest** is face-up on the field,
+      but that monster is then flipped face-down before the end of the Battle
+      Phase, will that monster be destroyed by the effect of **Ancient Forest**?
+    answer: |
+      Even if a monster is flipped face-down after having battled, it will
+      still be destroyed by the effect of **Ancient Forest** at the end of the
+      Battle Phase.
+    sources:
+      - text: Official Database FAQ/8644
+        url: https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8644&request_locale=ja
+      - text: ygoresources FAQ/8644
+        url: https://db.ygoresources.com/qa#8644

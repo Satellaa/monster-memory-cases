@@ -1,2 +1,21 @@
 temporaryBanished: Forgotten
 flipFaceDown: Forgotten
+flipFaceDownFAQs:
+  - question: |
+      My **Krystal Dragon** attacked my opponent's face-down Defense
+      Position monster. If that face-down Defense Position monster was
+      **Tsukuyomi**, and **Tsukuyomi's** monster effect『If this card is Normal
+      Summoned or flipped face-up: Target 1 face-up monster on the field; change
+      that target to face-down Defense Position.』is activated, changing my
+      **Krystal Dragon** to face-down Defense Position, can the monster effect
+      of that **Krystal Dragon**『Once per turn, during your Battle Step, if this
+      card battled this turn: You can add 1 Level 8 Dragon-Type monster from
+      your Deck to your hand.』be activated?
+    answer: |
+      In that situation, if the **Krystal Dragon** that battled is in
+      face-down Defense Position, its monster effect cannot be activated.
+
+      (Even if **Ceasefire** is later activated during that turn's Battle Step and that **Krystal Dragon** is flipped face-up, its monster effect still cannot be activated.)
+    sources:
+      - text: Official Database FAQ/19715
+        url: https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19715&request_locale=ja
