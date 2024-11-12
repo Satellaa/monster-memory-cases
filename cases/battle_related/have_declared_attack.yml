@@ -1,2 +1,20 @@
 temporaryBanished: Forgotten
 flipFaceDown: Remembered
+flipFaceDownFAQs:
+  - question: >
+      After **Infernoid Harmadik** declared an attack, it was flipped
+      face-down by the effect of **Book of Moon**. During Main Phase 2 of that
+      turn, if **Ceasefire"** is activated and that **Infernoid Harmadik**
+      becomes face-up, can its effect 『Once per turn (Quick Effect): You can
+      target 1 monster on the field; destroy it. This card cannot attack the
+      turn you activate this effect』be activated?
+    answer: >
+      Even if the **Infernoid Harmadik** that declared an attack this turn was
+      later flipped to face-down defense position and then returned to face-up
+      position, since that **Infernoid Harmadik** has already declared an
+      attack, its effect 『Once per turn (Quick Effect): You can target 1 monster
+      on the field; destroy it. This card cannot attack the turn you activate
+      this effect』cannot be activated.
+    sources:
+      - text: Official Database FAQ/14357
+        url: https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14357&request_locale=ja
