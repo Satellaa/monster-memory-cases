@@ -1,19 +1,36 @@
 temporaryBanished: Forgotten
 flipFaceDown: Forgotten
 flipFaceDownFAQs:
-  - question: My **Crackdown**, targeting a face-up monster in my opponent's Monster Zone, resolves, and I gain control of that monster. That targeted monster is then later changed to face-down Defense Position. What happens to **Crackdown**'s effect?
+  - question: |
+      My **Crackdown**, targeting a face-up monster in my opponent's Monster
+      Zone, resolves, and I gain control of that monster. That targeted monster
+      is then later changed to face-down Defense Position. What happens to
+      **Crackdown**'s effect?
     answer: |
-      If the monster is flipped face-down after **Crackdown** has resolved, **Crackdown** stops targeting that monster.
+      If the monster is flipped face-down after **Crackdown** has resolved,
+      **Crackdown** stops targeting that monster.
+
       Therefore,『take control of that monster』stops applying, **and control of the monster returns to your opponent.** Additionally, since『while you control that monster, it cannot attack or activate effects』stops applying, the monster will be able to attack, and its effects can be activated.
+
       **Crackdown** will remain face-up in the Spell & Trap Zone without a target, and thus『when that monster leaves the field, destroy this card』will also no longer apply.
     sources:
       - text: Official Database FAQ/11049
         url: https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11049&request_locale=ja
       - text: ygoresources FAQ/11049
         url: https://db.ygoresources.com/qa#11049
-  - question: If a monster equipped with **Graydle Alligator**, **Graydle Cobra** or **Graydle Eagle** is changed to face-down Defense Position, what happens to the『While this card is equipped to a monster by this effect, take control of that monster. When this card leaves the field, destroy the equipped monster.』effect that is applied?
+  - question: |
+      If a monster equipped with **Graydle Alligator**, **Graydle Cobra** or
+      **Graydle Eagle** is changed to face-down Defense Position, what happens
+      to the『While this card is equipped to a monster by this effect, take
+      control of that monster. When this card leaves the field, destroy the
+      equipped monster.』effect that is applied?
     answer: |
-      Since that monster cannot be equipped with Equip Cards anymore, **Graydle Alligator** (etc.) is destroyed. In that case, since at that time the monster is no longer being targeted by **Graydle Alligator** (etc.), the monster is not destroyed by the『when this card leaves the field, destroy the equipped monster』effect.
+      Since that monster cannot be equipped with Equip Cards anymore,
+      **Graydle Alligator** (etc.) is destroyed. In that case, since at that
+      time the monster is no longer being targeted by **Graydle Alligator**
+      (etc.), the monster is not destroyed by the『when this card leaves the
+      field, destroy the equipped monster』effect.
+
       Also,『take control of that monster』stops applying, **and control of it returns to your opponent.**
     sources:
       - text: Official Database FAQ/16310
